@@ -1,4 +1,5 @@
 🧠 Concept Matching Game
+Play here in Persian:https://dmgame.netlify.app/
 
 A two-player browser-based memory game built with vanilla HTML, CSS, and JavaScript.
 Players flip cards and try to find conceptually related pairs. Each correct match earns a point.
